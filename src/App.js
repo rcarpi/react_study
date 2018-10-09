@@ -6,7 +6,7 @@ import Main from './container/Main';
 
 const App = () => (
   <div className='app'>
-    <h1>React Router Demo</h1>
+    <h1>Raphael Carpi</h1>
     <Navigation />
     <Main />
   </div>
